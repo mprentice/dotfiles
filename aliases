@@ -1,0 +1,2 @@
+alias l='ls -Gal'
+alias realias='$EDITOR $HOME/.aliases; source $HOME/.aliases'
